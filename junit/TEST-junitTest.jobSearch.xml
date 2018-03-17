@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="pengl-PC" name="junitTest.jobSearch" skipped="0" tests="4" time="112.055" timestamp="2018-03-07T21:18:22">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.ORACLE_HOME" value="C:\Ora10InstantClient" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 7" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="F:\java1\lib\resources.jar;F:\java1\lib\rt.jar;F:\java1\lib\sunrsasign.jar;F:\java1\lib\jsse.jar;F:\java1\lib\jce.jar;F:\java1\lib\charsets.jar;F:\java1\lib\jfr.jar;F:\java1\classes" />
+    <property name="env.COMPUTERNAME" value="PENGL-PC" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\pengl\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840" />
+    <property name="java.runtime.version" value="1.8.0_162-b12" />
+    <property name="env.HOMEPATH" value="\Users\pengl" />
+    <property name="user.name" value="pengl" />
+    <property name="user.language" value="zh" />
+    <property name="env.windows_tracing_flags" value="3" />
+    <property name="sun.boot.library.path" value="F:\java1\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="TestSeek" />
+    <property name="java.version" value="1.8.0_162" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 37 Stepping 5, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.asl.log" value="Destination=file" />
+    <property name="env.TEMP" value="C:\Users\pengl\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="F:\java1\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="GBK" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="env.NLS_LANG" value="SIMPLIFIED CHINESE_CHINA.ZHS16GBK" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="F:\java1" />
+    <property name="env.PSModulePath" value="C:\windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\pengl\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="F:\gitRepo\WebTest\TestSeek\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="env.AMDAPPSDKROOT" value="C:\Program Files (x86)\AMD APP\" />
+    <property name="path.separator" value=";" />
+    <property name="ant.file.type.TestSeek" value="file" />
+    <property name="java.vm.version" value="25.162-b12" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\pengl" />
+    <property name="ant.library.dir" value="C:\Users\pengl\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="f:\Java\jdk1.8.0_162\" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env._PENTAHO_JAVA_HOME" value="D:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013" />
+    <property name="env.TMP" value="C:\Users\pengl\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Users\pengl" />
+    <property name="target" value="1.8" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.VS140COMNTOOLS" value="E:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.TNS_ADMIN" value="C:\Ora10InstantClient" />
+    <property name="env.M2_HOME" value="F:\apache-maven-3.5.2" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.library.path" value="F:\java1\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;F:/java1/bin/server;F:/java1/bin;F:/java1/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Mozilla Firefox;F:\apache-maven-3.5.2\bin;f:\Java\jdk1.8.0_162\\lib\dt.jar;f:\Java\jdk1.8.0_162\\lib\tools.jar;f:\Ruby24-x64\bin;C:\ant\bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;F:\apache-maven-3.5.2\bin;f:\Java\jdk1.8.0_162\\bin;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Ora10InstantClient;C:\Users\pengl\Desktop;;." />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="env.M2_REPO" value="D:\mavenRepository" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.1 compiled on February 2 2017" />
+    <property name="java.class.path" value="F:\gitRepo\WebTest\TestSeek\bin;F:\gitRepo\WebTest\TestSeek\lib\selenium-server-standalone-3.9.1.jar;F:\gitRepo\WebTest\TestSeek\lib\junit-4.8.2.jar;F:\gitRepo\WebTest\TestSeek\lib\selenium-java-2.40.0.jar;F:\gitRepo\WebTest\TestSeek\lib\selenium-chrome-driver-2.40.0.jar;F:\gitRepo\WebTest\TestSeek\lib\selenium-firefox-driver-2.40.0.jar;F:\gitRepo\WebTest\TestSeek\lib\byte-buddy-1.7.9.jar;F:\gitRepo\WebTest\TestSeek\lib\commons-codec-1.10.jar;F:\gitRepo\WebTest\TestSeek\lib\commons-exec-1.3.jar;F:\gitRepo\WebTest\TestSeek\lib\commons-logging-1.2.jar;F:\gitRepo\WebTest\TestSeek\lib\gson-2.8.2.jar;F:\gitRepo\WebTest\TestSeek\lib\guava-23.6-jre.jar;F:\gitRepo\WebTest\TestSeek\lib\httpclient-4.5.3.jar;F:\gitRepo\WebTest\TestSeek\lib\httpcore-4.4.6.jar;F:\gitRepo\WebTest\TestSeek\lib\okhttp-3.9.1.jar;F:\gitRepo\WebTest\TestSeek\lib\okio-1.13.0.jar;C:\Users\pengl\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-launcher.jar;C:\Users\pengl\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar;C:\Users\pengl\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit.jar;C:\Users\pengl\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner junitTest.jobSearch skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,F:\gitRepo\WebTest\TestSeek\junit\TEST-junitTest.jobSearch.xml crashfile=F:\gitRepo\WebTest\TestSeek\junitvmwatcher4193866089690260300.properties propsfile=F:\gitRepo\WebTest\TestSeek\junit5564297403231099014.properties" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.windir" value="C:\windows" />
+    <property name="env.LOGONSERVER" value="\\PENGL-PC" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="env.CLASS_PATH" value=".;f:\Java\jdk1.8.0_162\\lib\dt.jar;f:\Java\jdk1.8.0_162\\lib\tools.jar;" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ANT_HOME" value="C:\Users\pengl\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="java.io.tmpdir" value="C:\Users\pengl\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="2505" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\windows" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="ant.file.TestSeek" value="F:\gitRepo\WebTest\TestSeek\build.xml" />
+    <property name="java.ext.dirs" value="F:\java1\lib\ext;C:\windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="F:\gitRepo\WebTest\TestSeek" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\pengl\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW" />
+    <property name="org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer0" value="C:\Users\pengl\AppData\Local\Temp\null651631344" />
+    <property name="env.Path" value="F:/java1/bin/server;F:/java1/bin;F:/java1/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Mozilla Firefox;F:\apache-maven-3.5.2\bin;f:\Java\jdk1.8.0_162\\lib\dt.jar;f:\Java\jdk1.8.0_162\\lib\tools.jar;f:\Ruby24-x64\bin;C:\ant\bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;F:\apache-maven-3.5.2\bin;f:\Java\jdk1.8.0_162\\bin;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Ora10InstantClient;C:\Users\pengl\Desktop;" />
+    <property name="basedir" value="F:\gitRepo\WebTest\TestSeek" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\pengl\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar" />
+    <property name="env.USERNAME" value="pengl" />
+    <property name="source" value="1.8" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="GBK" />
+    <property name="env.USERDOMAIN" value="pengl-PC" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="build,junitreport,jobSearch" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="junitTest.jobSearch" name="jobSearchTestCase001" time="38.975" />
+  <testcase classname="junitTest.jobSearch" name="jobSearchTestCase002" time="22.722" />
+  <testcase classname="junitTest.jobSearch" name="jobSearchTestCase003" time="25.668" />
+  <testcase classname="junitTest.jobSearch" name="jobSearchTestCase004" time="24.364" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[三月 08, 2018 10:18:43 上午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Detected dialect: OSS
+三月 08, 2018 10:19:10 上午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Detected dialect: OSS
+三月 08, 2018 10:19:32 上午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Detected dialect: OSS
+三月 08, 2018 10:19:58 上午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Detected dialect: OSS
+]]></system-err>
+</testsuite>

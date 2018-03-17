@@ -16,7 +16,7 @@ public class FacebookTest {
 
 	@Before
 	public void setUp() throws Exception {
-		System.setProperty("webdriver.firefox.marionette", "C:/geckodriver.exe");
+		System.setProperty("webdriver.firefox.marionette", ":/geckodriver.exe");
 		driver = new FirefoxDriver();
 		driver.navigate().to("https://www.facebook.com/login/");
 	}
@@ -35,8 +35,9 @@ public class FacebookTest {
 		driver.findElement(By.id("pass")).sendKeys("eeddd11111");
 		// step3
 		driver.findElement(By.id("loginbutton")).click();
-		String acrualRST = driver.findElement(By.xpath("//div[@_4rbf _53ij']")).getText();
+		String acrualRST = driver.findElement(By.xpath("//div[@class='_4rbf _53ij']")).getText();
 
-		assertEquals("The password that you've entered is incorrect.", acrualRST);
+		assertEquals("The password that you've entered is incorrect. Forgotten password?", acrualRST);
+	
 	}
 }

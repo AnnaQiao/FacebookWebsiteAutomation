@@ -16,7 +16,7 @@ public class FacebookTest {
 
 	@Before
 	public void setUp() throws Exception {
-		System.setProperty("webdriver.firefox.marionette", ":/geckodriver.exe");
+		System.setProperty("webdriver.firefox.marionette", "C:/geckodriver.exe");
 		driver = new FirefoxDriver();
 		driver.navigate().to("https://www.facebook.com/login/");
 	}
